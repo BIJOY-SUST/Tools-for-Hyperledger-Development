@@ -13,11 +13,9 @@ The list is given first and foremost, and the most important is given at the end
       - https://medium.com/codingthesmartway-com-blog/async-programming-with-javascript-callbacks-promises-and-async-await-980e3f144185
       - https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887
       - https://dzone.com/articles/asynchronous-javascript-1
-
-## NodeJS 
-
-## ReactJS (Optional)
-   - https://tutsgalaxy.com/react-the-complete-guide-incl-hooks-react-router-redux/
+   - NodeJS 
+   - ReactJS (Optional)
+      - https://tutsgalaxy.com/react-the-complete-guide-incl-hooks-react-router-redux/
 
 ## UI
    - https://material-ui.com/ (Optional)
