@@ -1,5 +1,5 @@
 # Tools-for-Hyperledger-Development
-The list is given first and foremost, and the most important is given at the end. That is, the ascending order of importance.
+The list contains the least important tasks first, and the more important ones the last. That is, the ascending order of importance.
 
 ## Data Representation:
    - JSON 
