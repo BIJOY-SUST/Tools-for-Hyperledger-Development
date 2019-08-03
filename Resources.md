@@ -45,7 +45,7 @@ The list contains the least important tasks first, and the more important ones t
 
 
 ### IDE: 
-   - Goland
+   - GoLand
    - VS Code
 
 
