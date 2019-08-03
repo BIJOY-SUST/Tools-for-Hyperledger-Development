@@ -1,3 +1,2 @@
-# Tools-for-Hyperledger-Development
-## What is this repo?
+## What is this Repository?
 A list of resources and introductory notebooks for Hyperledger development.
