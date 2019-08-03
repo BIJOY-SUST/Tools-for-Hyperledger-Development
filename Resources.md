@@ -39,9 +39,9 @@ The list contains the least important tasks first, and the more important ones t
 
 ### Learning Flow:
    - 1.5 hr Reading: Bitcoinbook/Hyperledger Fabric
-   - 1hr: Nodejs (10hr)
-   - 1hr: Golang (10hr)
-   - 1hr: Others
+   - 1 hr: Nodejs (10hr)
+   - 1 hr: Golang (10hr)
+   - 1 hr: Others
 
 
 ### IDE: 
