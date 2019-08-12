@@ -36,6 +36,11 @@ The list contains the least important tasks first, and the more important ones t
 ### Docker:
    - https://www.youtube.com/watch?v=wCTTHhehJbU
    - https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK
+   
+### IDE: 
+   - GoLand
+   - VS Code
+-----------------------------------------------------------------------------------------------------------------------------
 
 ### Learning Flow:
    - 1.5 hr Reading: Bitcoinbook/Hyperledger Fabric
@@ -44,9 +49,7 @@ The list contains the least important tasks first, and the more important ones t
    - 1 hr: Others
 
 
-### IDE: 
-   - GoLand
-   - VS Code
+
 
 
 
