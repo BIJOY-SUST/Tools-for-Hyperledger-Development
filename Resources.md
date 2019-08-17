@@ -2,7 +2,7 @@
 The list contains the least important tasks first, and the more important ones the last. The ascending order of importance.
 
 ### Data Representation:
-   - JSON 
+   - JSON , AJAX and JSON VS AJAX
    - YAML
    - Protobuf (Optional)
 
