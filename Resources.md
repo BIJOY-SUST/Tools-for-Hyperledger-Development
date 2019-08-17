@@ -25,6 +25,9 @@ The list contains the least important tasks first, and the more important ones t
 
 ### GoLang
 
+### Mastering Bitcoin
+   - https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc?fbclid=IwAR1GH2Edmrgy-6diWSbAaZKcleOPgwKNlCK8ud6uT7DwbmGi0oTSlM3soT0
+
 ### Hyperledger Fabric
    - Intro - https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatis.html
    - Key Concepts - https://hyperledger-fabric.readthedocs.io/en/release-1.4/key_concepts.html
