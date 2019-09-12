@@ -2,7 +2,11 @@
 The list contains the least important tasks first, and the more important ones the last. The ascending order of importance.
 ### Mastering Bitcoin for basic knowledge of Blockchain:
    - https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc?fbclid=IwAR1GH2Edmrgy-6diWSbAaZKcleOPgwKNlCK8ud6uT7DwbmGi0oTSlM3soT0
-   
+
+### Integrated Development Environment: 
+   - GoLand
+   - VS Code
+
 ### Web : Front-End:
    - #### Data Representation:
       - JSON , AJAX and JSON VS AJAX
@@ -55,13 +59,7 @@ The list contains the least important tasks first, and the more important ones t
       - Architectural Reference - https://hyperledger-fabric.readthedocs.io/en/release-1.4/architecture.html
       - Developing Applications - https://hyperledger-fabric.readthedocs.io/en/release-1.4/developapps/developing_applications.html
       - Tutorials (Must Read: Chaincode for Developers) - https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorials.html
-   - 
 
-
-   
-### IDE: 
-   - GoLand
-   - VS Code
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Learning Flow:
