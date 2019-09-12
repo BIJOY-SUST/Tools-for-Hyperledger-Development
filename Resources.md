@@ -4,16 +4,16 @@ The list contains the least important tasks first, and the more important ones t
    - https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc?fbclid=IwAR1GH2Edmrgy-6diWSbAaZKcleOPgwKNlCK8ud6uT7DwbmGi0oTSlM3soT0
    
 ### Front-End:
-   #### Data Representation:
+   - #### Data Representation:
       - JSON , AJAX and JSON VS AJAX
       - YAML
       - Protobuf (Optional)
-   #### UI
+  - #### UI
       - https://material-ui.com/ (Optional)
       - https://semantic-ui.com/ (Optional)
       - https://materializecss.com/ (Optional)
       - SASS
-   #### Web Design
+  - #### Web Design
       - ReactJS (Optional)
          - https://tutsgalaxy.com/react-the-complete-guide-incl-hooks-react-router-redux/
 
