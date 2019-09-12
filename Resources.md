@@ -1,6 +1,6 @@
-## Tools-for-Hyperledger-Development
+## Tools for Hyperledger Development
 The list contains the least important tasks first, and the more important ones the last. The ascending order of importance.
-### Mastering Bitcoin for basic knowledge of Blockchain
+### Mastering Bitcoin for basic knowledge of Blockchain:
    - https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc?fbclid=IwAR1GH2Edmrgy-6diWSbAaZKcleOPgwKNlCK8ud6uT7DwbmGi0oTSlM3soT0
    
 ### Web : Front-End:
@@ -34,16 +34,16 @@ The list contains the least important tasks first, and the more important ones t
    - https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK
    - Complete Tutorial : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development/tree/master/Tutorials/Udemy%20-%20Docker%20Mastery%20The%20Complete%20Toolset%20From%20a%20Docker%20Captain)
 
-### Chaincode
+### Chaincode:
    - Golang - Video Tutorial : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development/tree/master/Tutorials/Udemy%20-%20Go%20The%20Complete%20Developer's%20Guide(Golang))
    - Golang - Ripul Sir Tutorial : [Tutorial Link](https://drive.google.com/file/d/1G_dQJCAMg1oZqlRMkncOYnLuh-Q85WQ_/view?usp=sharing)
 
-### Database
+### Database:
    - CouchDB:
       - Selector - https://docs.couchdb.org/en/2.2.0/api/database/find.html
 
 
-### Hyperledger Fabric
+### Hyperledger Fabric:
    - Ripul Sir
       - Complete Hyperledger Fabric - Ripul Sir : [Link](https://drive.google.com/file/d/1qKz9XWeUJ4tcuTHdjKg3o01fSOgCwhsd/view?usp=sharing)
       - Complete Installation Hyperledger Fabric - Ripul Sir : [Link](https://drive.google.com/file/d/1_tQtkV-DAi_lb2QgMIv7r5pxZnkmAF3z/view?usp=sharing)
