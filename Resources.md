@@ -47,7 +47,7 @@ The list contains the least important tasks first, and the more important ones t
    - Ripul Sir
       - Complete Hyperledger Fabric - Ripul Sir : [Link](https://drive.google.com/file/d/1qKz9XWeUJ4tcuTHdjKg3o01fSOgCwhsd/view?usp=sharing)
       - Complete Installation Hyperledger Fabric - Ripul Sir : [Link](https://drive.google.com/file/d/1_tQtkV-DAi_lb2QgMIv7r5pxZnkmAF3z/view?usp=sharing)
-      - Run a Simple Hyper Ledger Project Build With Hyper Ledger : [Link](https://drive.google.com/file/d/1xBoM3A26sO48_eOJkEsHuedoOXHnU1hG/view?usp=sharing)
+      - Run a Simple Hyper Ledger Project Build With Hyper Ledger - Ripul Sir : [Link](https://drive.google.com/file/d/1xBoM3A26sO48_eOJkEsHuedoOXHnU1hG/view?usp=sharing)
    - Officeal Documentation
       - Intro - https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatis.html
          - How Hyperledger Fabric Works? https://medium.com/coinmonks/how-does-hyperledger-fabric-works-cdb68e6066f5
