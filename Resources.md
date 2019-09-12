@@ -1,12 +1,23 @@
 ## Tools-for-Hyperledger-Development
 The list contains the least important tasks first, and the more important ones the last. The ascending order of importance.
+### Mastering Bitcoin for basic knowledge of Blockchain
+   - https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc?fbclid=IwAR1GH2Edmrgy-6diWSbAaZKcleOPgwKNlCK8ud6uT7DwbmGi0oTSlM3soT0
+   
+### Front-End:
+   #### Data Representation:
+      - JSON , AJAX and JSON VS AJAX
+      - YAML
+      - Protobuf (Optional)
+   #### UI
+      - https://material-ui.com/ (Optional)
+      - https://semantic-ui.com/ (Optional)
+      - https://materializecss.com/ (Optional)
+      - SASS
+   #### Web Design
+      - ReactJS (Optional)
+         - https://tutsgalaxy.com/react-the-complete-guide-incl-hooks-react-router-redux/
 
-### Data Representation:
-   - JSON , AJAX and JSON VS AJAX
-   - YAML
-   - Protobuf (Optional)
-
-### Web
+### Back-End
    - JavaScript
    - Promise
    - Asynchronous Coding with JS 
@@ -14,19 +25,19 @@ The list contains the least important tasks first, and the more important ones t
       - https://medium.com/quick-code/javascript-promises-in-twenty-minutes-3aac5b65b887
       - https://dzone.com/articles/asynchronous-javascript-1
    - NodeJS 
-   - ReactJS (Optional)
-      - https://tutsgalaxy.com/react-the-complete-guide-incl-hooks-react-router-redux/
 
-### UI
-   - https://material-ui.com/ (Optional)
-   - https://semantic-ui.com/ (Optional)
-   - https://materializecss.com/ (Optional)
-   - SASS
 
-### GoLang
+### Creating Environment with Docker:
+   - https://www.youtube.com/watch?v=wCTTHhehJbU
+   - https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK
 
-### Mastering Bitcoin
-   - https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc?fbclid=IwAR1GH2Edmrgy-6diWSbAaZKcleOPgwKNlCK8ud6uT7DwbmGi0oTSlM3soT0
+### Chaincode
+   - Golang : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development/tree/master/Tutorials/Udemy%20-%20Go%20The%20Complete%20Developer's%20Guide(Golang))
+
+### Database
+   - CouchDB:
+      - Selector - https://docs.couchdb.org/en/2.2.0/api/database/find.html
+
 
 ### Hyperledger Fabric
    - Intro - https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatis.html
@@ -35,11 +46,8 @@ The list contains the least important tasks first, and the more important ones t
    - Architectural Reference - https://hyperledger-fabric.readthedocs.io/en/release-1.4/architecture.html
    - Developing Applications - https://hyperledger-fabric.readthedocs.io/en/release-1.4/developapps/developing_applications.html
    - Tutorials (Must Read: Chaincode for Developers) - https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorials.html
-### CouchDB:
-   - Selector - https://docs.couchdb.org/en/2.2.0/api/database/find.html
-### Docker:
-   - https://www.youtube.com/watch?v=wCTTHhehJbU
-   - https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK
+
+
    
 ### IDE: 
    - GoLand
