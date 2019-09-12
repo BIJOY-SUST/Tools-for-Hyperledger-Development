@@ -5,11 +5,9 @@ The list contains the least important tasks first, and the more important ones t
    
 ### Web:Front-End:
    - #### Data Representation:
-```
       - JSON , AJAX and JSON VS AJAX
       - YAML
       - Protobuf (Optional)
-```
   - #### UI
       - https://material-ui.com/ (Optional)
       - https://semantic-ui.com/ (Optional)
