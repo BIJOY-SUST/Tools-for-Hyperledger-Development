@@ -9,9 +9,9 @@ The list contains the least important tasks first, and the more important ones t
       - YAML
       - Protobuf (Optional)
   - #### UI
-      - https://material-ui.com/ (Optional)
-      - https://semantic-ui.com/ (Optional)
-      - https://materializecss.com/ (Optional)
+      - Material : [Tutorial Link](https://material-ui.com/) (Optional)
+      - Semantic : [Tutorial Link](https://semantic-ui.com/) (Optional)
+      - Materializecss : [Tutorial Link](https://materializecss.com/) (Optional)
       - SASS : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development/tree/master/Tutorials/Udemy%20-%20The%20Complete%20Sass%20%26%20SCSS%20Course%20From%20Beginner%20to%20Advanced)
   - #### Web Design
       - Bootstrap 4 : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development/tree/master/Tutorials/Udemy%20-%20Bootstrap%204%20From%20Scratch%20With%205%20Projects)
