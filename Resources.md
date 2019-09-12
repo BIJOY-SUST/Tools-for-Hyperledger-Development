@@ -36,7 +36,7 @@ The list contains the least important tasks first, and the more important ones t
 
 ### Chaincode
    - Golang - Video Tutorial : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development/tree/master/Tutorials/Udemy%20-%20Go%20The%20Complete%20Developer's%20Guide(Golang))
-    - Golang - Ripul Sir Tutorial : [Tutorial Link](https://drive.google.com/file/d/1G_dQJCAMg1oZqlRMkncOYnLuh-Q85WQ_/view?usp=sharing)
+   - Golang - Ripul Sir Tutorial : [Tutorial Link](https://drive.google.com/file/d/1G_dQJCAMg1oZqlRMkncOYnLuh-Q85WQ_/view?usp=sharing)
 
 ### Database
    - CouchDB:
