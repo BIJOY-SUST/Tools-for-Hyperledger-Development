@@ -3,7 +3,7 @@ The list contains the least important tasks first, and the more important ones t
 ### Mastering Bitcoin for basic knowledge of Blockchain
    - https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc?fbclid=IwAR1GH2Edmrgy-6diWSbAaZKcleOPgwKNlCK8ud6uT7DwbmGi0oTSlM3soT0
    
-### Front-End:
+### Web:Front-End:
    - #### Data Representation:
       - JSON , AJAX and JSON VS AJAX
       - YAML
@@ -12,12 +12,12 @@ The list contains the least important tasks first, and the more important ones t
       - https://material-ui.com/ (Optional)
       - https://semantic-ui.com/ (Optional)
       - https://materializecss.com/ (Optional)
-      - SASS
+      - SASS : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development/tree/master/Tutorials/Udemy%20-%20The%20Complete%20Sass%20%26%20SCSS%20Course%20From%20Beginner%20to%20Advanced)
   - #### Web Design
       - ReactJS (Optional)
          - https://tutsgalaxy.com/react-the-complete-guide-incl-hooks-react-router-redux/
 
-### Back-End
+### Web:Back-End:
    - JavaScript
    - Promise
    - Asynchronous Coding with JS 
