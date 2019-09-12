@@ -30,7 +30,7 @@ The list contains the least important tasks first, and the more important ones t
 
 ### Hyperledger Fabric
    - Intro - https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatis.html
-         -- How Hyperledger Fabric Works? https://medium.com/coinmonks/how-does-hyperledger-fabric-works-cdb68e6066f5
+         - How Hyperledger Fabric Works? https://medium.com/coinmonks/how-does-hyperledger-fabric-works-cdb68e6066f5
    - Key Concepts - https://hyperledger-fabric.readthedocs.io/en/release-1.4/key_concepts.html
    - Architectural Reference - https://hyperledger-fabric.readthedocs.io/en/release-1.4/architecture.html
    - Developing Applications - https://hyperledger-fabric.readthedocs.io/en/release-1.4/developapps/developing_applications.html
