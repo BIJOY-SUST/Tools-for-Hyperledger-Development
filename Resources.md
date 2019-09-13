@@ -1,6 +1,6 @@
 # Tools for Hyperledger Development :+1:
 The list contains the least important tasks first, and the last one is more important. Ascending order of importance. We will basically use Go Lang for writing the chaincode and Node.js for the web back-end.
-### Mastering Bitcoin for basic knowledge of Blockchain:
+### Mastering Bitcoin book for basic knowledge of Blockchain:
    - https://github.com/bitcoinbook/bitcoinbook/blob/develop/book.asciidoc?fbclid=IwAR1GH2Edmrgy-6diWSbAaZKcleOPgwKNlCK8ud6uT7DwbmGi0oTSlM3soT0
 
 ### Integrated Development Environment for Writing Code: 
