@@ -59,9 +59,7 @@ The list contains the least important tasks first, and the last one is more impo
       - Architectural Reference - https://hyperledger-fabric.readthedocs.io/en/release-1.4/architecture.html
       - Developing Applications - https://hyperledger-fabric.readthedocs.io/en/release-1.4/developapps/developing_applications.html
       - Tutorials (Must Read: Chaincode for Developers) - https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorials.html
-   - Extending the FabCar network with ExpressJS REST Api
-      - https://medium.com/coinmonks/hyperledger-fabric-extending-the-fabcar-example-with-a-expressjs-rest-api-c270710ebbc9
-
+      
 -----------------------------------------------------------------------------------------------------------------------------
 
 ### Learning Flow:
