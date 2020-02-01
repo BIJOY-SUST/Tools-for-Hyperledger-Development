@@ -69,20 +69,5 @@ The list contains the least important tasks first, and the last one is more impo
    - 1 hr: Nodejs (10hr)
    - 1 hr: Golang (10hr)
    - 1 hr: Others
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   
+   
