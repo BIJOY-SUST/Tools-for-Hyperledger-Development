@@ -40,7 +40,7 @@ The list contains the least important tasks first, and the last one is more impo
 
 ### Chaincode:
    - Golang - Video Tutorial : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development/tree/master/Tutorials/Udemy%20-%20Go%20The%20Complete%20Developer's%20Guide(Golang))
-   - Golang - Ripul Sir Tutorial : [Tutorial Link](https://drive.google.com/file/d/1G_dQJCAMg1oZqlRMkncOYnLuh-Q85WQ_/view?usp=sharing)
+   - Golang - Ripul Sir Tutorial : [Tutorial Link](https://drive.google.com/file/d/1o2qa2qu7NULmT2tTi9W98IjessxiwkHg/view?usp=sharing)
 
 ### Database:
    - CouchDB:
@@ -49,9 +49,9 @@ The list contains the least important tasks first, and the last one is more impo
 
 ### Hyperledger Fabric:
    - Ripul Sir
-      - Complete Hyperledger Fabric - Ripul Sir : [Link](https://drive.google.com/file/d/1qKz9XWeUJ4tcuTHdjKg3o01fSOgCwhsd/view?usp=sharing)
-      - Complete Installation Hyperledger Fabric - Ripul Sir : [Link](https://drive.google.com/file/d/1_tQtkV-DAi_lb2QgMIv7r5pxZnkmAF3z/view?usp=sharing)
-      - Run a Simple Hyper Ledger Project Build With Hyper Ledger - Ripul Sir : [Link](https://drive.google.com/file/d/1xBoM3A26sO48_eOJkEsHuedoOXHnU1hG/view?usp=sharing)
+      - Complete Hyperledger Fabric - Ripul Sir : [Link](https://drive.google.com/file/d/1woe-qC9IqSxPMfsdzblRsDWFnu7Uvs6e/view?usp=sharing)
+      - Complete Installation Hyperledger Fabric - Ripul Sir : [Link](https://drive.google.com/file/d/1b5uSIumKdf75bZ2DN3znaRdQWvUmvOkc/view?usp=sharing)
+      - Run a Simple Hyper Ledger Project Build With Hyper Ledger - Ripul Sir : [Link](https://drive.google.com/file/d/14GPEKjiUfzRcTEFq1DDT4zSj2hXjVac0/view?usp=sharing)
    - Official Documentation
       - Intro - https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatis.html
          - How Hyperledger Fabric Works? https://medium.com/coinmonks/how-does-hyperledger-fabric-works-cdb68e6066f5
