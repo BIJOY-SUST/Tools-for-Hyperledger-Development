@@ -59,7 +59,7 @@ The list contains the least important tasks first, and the last one is more impo
       - Architectural Reference - https://hyperledger-fabric.readthedocs.io/en/release-1.4/architecture.html
       - Developing Applications - https://hyperledger-fabric.readthedocs.io/en/release-1.4/developapps/developing_applications.html
       - Tutorials (Must Read: Chaincode for Developers) - https://hyperledger-fabric.readthedocs.io/en/release-1.4/tutorials.html
-   - Complete Project - [Intellectual Property Verification Using Blockchain](https://github.com/BIJOY-SUST/Intellectual-Property)
+   - Complete Project - [Intellectual Property Verification Using Blockchain](https://github.com/BIJOY-SUST/Intellectual-Property-Verification-Using-Blockchain)
       
       
 -----------------------------------------------------------------------------------------------------------------------------
