@@ -37,8 +37,7 @@ We will basically use Go Lang for writing the chaincode and Node.js for the web 
          - SASS : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development-Using-Blockchain/tree/master/Tutorials/Udemy%20-%20The%20Complete%20Sass%20%26%20SCSS%20Course%20From%20Beginner%20to%20Advanced)
       - ##### Web Design
          - Bootstrap 4 : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development-Using-Blockchain/tree/master/Tutorials/Udemy%20-%20Bootstrap%204%20From%20Scratch%20With%205%20Projects)
-         - ReactJS (Optional)
-            - [Tutorial Link](https://tutsgalaxy.com/react-the-complete-guide-incl-hooks-react-router-redux/)
+         - ReactJS (Optional) [Tutorial Link](https://github.com/yudi43/React---The-Complete-Guide--incl-Hooks--React-Router--Redux-)
 
    - #### Web : Back-End:
       - JavaScript : [Tutorial Link](https://github.com/BIJOY-SUST/Tools-for-Hyperledger-Development-Using-Blockchain/tree/master/Tutorials/Udemy%20-%20The%20Complete%20JavaScript%20Course%202019%20Build%20Real%20Projects!)
