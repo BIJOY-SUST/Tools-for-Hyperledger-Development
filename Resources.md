@@ -1,6 +1,6 @@
 # Tools for Hyperledger Development Using Blockchain:+1:
 
-We will basically use Go Lang for writing the chaincode and NodeJS for the web backend. I want to give a special thanks to Tanmoytkd for helping to throughout my Hyperledger project.
+We will basically use Go Lang for writing the chaincode and NodeJS for the web backend. I would like to give special thanks to Tanmoytkd for teaching me.
 
 NB: Only Ripul Sir students can get permission to use Sir's tutorial.
 
